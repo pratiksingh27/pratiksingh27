@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/pratiksingh27](https://linktr.ee/pratiksingh27)
 
-- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,REACT.JS**
+- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,TAILWINDCSS,REACT.JS**
 
 - 📫 How to reach me **pratik27march@gmail.com**
 
